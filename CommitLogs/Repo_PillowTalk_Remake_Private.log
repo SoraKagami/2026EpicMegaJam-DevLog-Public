@@ -2,3 +2,5 @@
 # Status: + = commit is in the repo history, ~ = commit was changed (amended/rebased; replaced by a newer commit),
 #         - = commit was removed from the history, ? = commit disappeared (no longer found in the repo)
 +	20261112-0520	3124c942c6c79c62c77d229207e34c1f4eec15c8922cf10b274a38c6f4a15373	Initial Commit (git setup)
++	20261112-0635	83bebfe665d695763e608be9851910bcd876bc2e2eee8f73058fd02629c65f63	Default UE 5.9 Top-Down template created in the project folder
++	20261112-0639	9f465e3ce8bfb9dceb64209f4a0fe5b525c732289396790d419d77279f0a42b9	Updating .gitignore to exclude the UNVEiL Plugin
