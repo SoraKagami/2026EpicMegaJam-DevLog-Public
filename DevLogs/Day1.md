@@ -83,3 +83,11 @@ Will continue after a meal break.
 ## Update 7: 00:45 GMT+8
 - PC setup according to Claude Code's plan for overnight build. Ready to attempt.
 - AMD 7900 XTX auto Adrenalin driver overclock (bug) addressed with Claude Code's help via a custom AMD ADLX program + task scheduler. Unfortunately not directly contributable to PillowTalk, but it will at least stop my card crashing and burning on every OS or driver crash.
+
+## Update 8: 01:20 GMT+8
+- Claude's designed and coded self-run and auto recover after crash scripts appear to be working. Confirmed by accident after crash.
+- PC CPU PBOs cranked up, re-tuned for stability settings is no longer sufficient after 2 days. Something is definitely failing and failing fast.
+
+Interesting observation. With Claude's setup for PillowTalk, if all goes well I can actually read the conversation logs between the main `Conductor` (changed from Director since the theme includes this word, less confusion) and `Worker` sessions. Looking forward to reading this on Day 2.
+
+Last commit of Day 1 most likely.
