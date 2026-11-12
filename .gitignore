@@ -1,0 +1,45 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ist/
+out/
+
+# Archive files
+*.zip
+*.7z
+
+# Runtime diagnostics generated during local development
+logs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet artifacts/cache folders
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office temp files
+~$*.xlsx
+~$*.docx
+
+# Claude Code local machine-specific settings
+.claude/settings.local.json
+.claude/
+
+# Python
+#__pycache__
+
+# User Exclusions (temp files etc)
+_ExcludeFromGit_
+#Issues.md
