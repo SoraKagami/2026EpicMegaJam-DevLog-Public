@@ -6,3 +6,5 @@
 +	20261112-0639	9f465e3ce8bfb9dceb64209f4a0fe5b525c732289396790d419d77279f0a42b9	Updating .gitignore to exclude the UNVEiL Plugin
 +	20261112-1258	4fccdaf2817507202e2ee3d06721cad16576c4a18634091f43204b3dab7e67d0	Planning: design, architecture, schedule, overnight automation, guard hook, empty C++ module (builds)
 +	20261112-1309	628505e5d0951a8d1668165fc913c87d1122c143cd94369a4c8c9bb12174acd9	Initial plan generation by Claude Code
++	20261112-1545	4399b7e03f49bddb715d4f5041ff87dd645a6f95d49552d65d18a490363d9782	.mcp.json updated, claude's logs changed?
++	20261112-1632	66c07b255c88afbd6194c3512a1d1264ee9ecdf398faebbd57ac49b7079092ac	Updated Guard.ps1, addressed _Issues_.md, Claude conversation log auto updated?
