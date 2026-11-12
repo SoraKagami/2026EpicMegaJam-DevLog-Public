@@ -1,3 +1,4 @@
+# UNVeIL: an UNreal Viewer for External and imported Libraries (private dev repo)
 # Columns (tab-separated): Status, Commit date-time in UTC (YYYYMMDD-HHMM), Commit hash, Commit summary (omitted for privacy)
 # Status: + = commit is in the repo history, ~ = commit was changed (amended/rebased; replaced by a newer commit),
 #         - = commit was removed from the history, ? = commit disappeared (no longer found in the repo)
