@@ -73,3 +73,9 @@ After jumping through too many hoops to get my identity verified, Claude is usab
 Claude finished the initial instructions/plan processing in under 5 minutes afterwards. It was that close to finishing that part. Fortunately the context window was not compacted before I got my access back.
 
 15% of `Fable 5.2`'s context spent alone on the initial design doc input, wow.
+
+## Update 6: 23:00 GMT+8
+- Completed Pre-MegaJam2026-setup.md in private repo
+- UNVeIL plugin is close to being usable for PillowTalk to assist with asset finding and importing. Not yet compatible with UE 5.9.0.
+Have not had time to read and work on Claude made plans for PillowTalk. This will if it works out ok including the necessary setups, be left running overnight; it will iterfere with PC use while running.
+Will continue after a meal break.
