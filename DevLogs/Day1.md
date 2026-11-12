@@ -66,3 +66,10 @@ Upgrading my Claude plan failed, got stuck with the identification verification 
 Going to try updating to iOS 27.2.1 and try again afterwards. If this fails, this may be the end of my Epic MegaJam 2026.
 
 It is impossible to finish even a fraction of my game's designs without GenAI help given how over ambitious the design became, and it is far too late to restart from scratch by hand and expect to make something decent on time without giving up all sleep.
+
+## Update 5: 21:00 GMT+8
+After jumping through too many hoops to get my identity verified, Claude is usable again. Almost a full 2 hours lost to the identity verification mess by Anthropic's 3rd party provider.
+
+Claude finished the initial instructions/plan processing in under 5 minutes afterwards. It was that close to finishing that part. Fortunately the context window was not compacted before I got my access back.
+
+15% of `Fable 5.2`'s context spent alone on the initial design doc input, wow.
