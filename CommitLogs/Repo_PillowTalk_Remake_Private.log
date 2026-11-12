@@ -1,0 +1,4 @@
+# Columns (tab-separated): Status, Commit date-time in UTC (YYYYMMDD-HHMM), Commit hash, Commit summary
+# Status: + = commit is in the repo history, ~ = commit was changed (amended/rebased; replaced by a newer commit),
+#         - = commit was removed from the history, ? = commit disappeared (no longer found in the repo)
++	20261112-0520	3124c942c6c79c62c77d229207e34c1f4eec15c8922cf10b274a38c6f4a15373	Initial Commit (git setup)
