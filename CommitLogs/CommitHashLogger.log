@@ -1,3 +1,4 @@
+# For: The local copy of https://github.com/SoraKagami/CommitHashLogger
 # Columns (tab-separated): Status, Commit date-time in UTC (YYYYMMDD-HHMM), Commit hash, Commit summary
 # Status: + = commit is in the repo history, ~ = commit was changed (amended/rebased; replaced by a newer commit),
 #         - = commit was removed from the history, ? = commit disappeared (no longer found in the repo)
