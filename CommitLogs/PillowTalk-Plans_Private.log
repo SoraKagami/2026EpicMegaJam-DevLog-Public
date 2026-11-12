@@ -4,3 +4,4 @@
 #         - = commit was removed from the history, ? = commit disappeared (no longer found in the repo)
 +	20261112-0422	557b1afa191e1104ed262b6f0ab7b824b173d31b	Initial Commit (git setup)
 +	20261112-0453	b824a6662806e63f98f840f19cb659e703a3bf18	Almost time to start. Initial plans.
++	20261112-1158	cc642b45259e63efd995f043777b044b67216476	Created the initial game design doc for Claude to help turn into an implementable plan for other Claude Code sessions

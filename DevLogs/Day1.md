@@ -1,6 +1,6 @@
 # Dev logs/diary, Day 1
 
-## 30mins into Epic's MegaJam 2026
+## Update 1: 13:00 GMT +8 (30mins into Epic's MegaJam 2026)
 SoraKagami here. I am working away from home, time-zone is UTC+8. Missing home (UTC-8), would have been able to wake and sleep at normal hours.
 
 This is a lot for a solo dev. 30mins in and I am completely overwhelmed by tasks. Just created my game's empty repo, had issues sync'ing the repo to my own Gitea server (been having problems with git LFS since quite some time ago, never figured out what I did wrong). Finally got it sync'd. With only the `.gitignore` and `.gitattributes` in project.
@@ -50,3 +50,19 @@ Based on my recent experience of using Claude Code to create `UNVEiL`, this is d
 Forgot to mention above that `CommitHashLogger` was made to help with proof of work/time. Currently a private repo on Github, will most likely make it public at the end of the competition as it's a useful script.
 
 Still have not had time to work on the game's CLAUDE.md prompt, plans, docs etc. Running 2 Claude Code instances simultaneously. Looks like I may have to move to three at this rate but honestly, 2 seems to be my multi-tasking limit (and sometimes my PC's too). The bottleneck is from the human side (me) most of the time, ouch!
+
+## Update 3: 19:18 GMT+8 (many hours into MegaJam)
+I have just finished creating the initial instruction to pass to Claude Code. It took too many edits and updates to get here. Time spent, I don't even want to remember. Had to run Claude Code with `Fable 5.2` medium given how far behind I am now.
+
+Filesize for the prompt: `32.9 KB` (33,722 bytes).
+
+7% of the context window was consumed within a few seconds of sending the prompt (missed the inital stat). Ouch!
+
+Waiting for the plan to be made from the input, need to upgrade my Claude plan due to switching to `Fable 5.2`.
+
+## Update 4: 19:55 GMT+8
+Upgrading my Claude plan failed, got stuck with the identification verification service `withpersonal` that Claude uses's iOS bug (currently on iOS 27.0.1). Front ID photo works, back ID photo never initiates the phone's camera.
+
+Going to try updating to iOS 27.2.1 and try again afterwards. If this fails, this may be the end of my Epic MegaJam 2026.
+
+It is impossible to finish even a fraction of my game's designs without GenAI help given how over ambitious the design became, and it is far too late to restart from scratch by hand and expect to make something decent on time without giving up all sleep.
