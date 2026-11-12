@@ -41,3 +41,12 @@ Just managing/updating my own local server services, dealing with software updat
 
 **I am really excited at the prospect of actually finishing the complete ground up remake + upgraded version of my game**. The Epic MegaJam gave me a reason to just throw in the towel and move on, start fresh to try and see if GenAI can make up for my own shortcomings.
 Based on my recent experience of using Claude Code to create `UNVEiL`, this is definitely possible.
+
+## Update 2: 15:00 GMT+8 (2 hours into MegaJam)
+- Created a blank top-down UE 5.9 project
+- Updated `UNVEiL` (still incomplete, working on it!)
+- Updated script `CommitHashLogger`
+
+Forgot to mention above that `CommitHashLogger` was made to help with proof of work/time. Currently a private repo on Github, will most likely make it public at the end of the competition as it's a useful script.
+
+Still have not had time to work on the game's CLAUDE.md prompt, plans, docs etc. Running 2 Claude Code instances simultaneously. Looks like I may have to move to three at this rate but honestly, 2 seems to be my multi-tasking limit (and sometimes my PC's too). The bottleneck is from the human side (me) most of the time, ouch!

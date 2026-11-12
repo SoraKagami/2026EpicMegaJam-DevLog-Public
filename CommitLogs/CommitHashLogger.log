@@ -7,3 +7,4 @@
 +	20261112-0348	55edf6796c436ed65af11ac5056849fd45c2e8bf	v1.1 Updated to use external config arguments
 +	20261112-0349	54680a5e7689b7ddd5c966af8072f3e3b4dc23c9	v1.2 Updated to include optional omission of commit summary
 +	20261112-0417	5eb0fef31064c7c41eda6d5d2d9a1daf247cbb9a	Made Example.bat easier (config as params in .bat)
++	20261112-0648	b15a48a0a059a151e2c76b7548384e14dd3f48cd	ExampleMulti.bat: Batch .bat for dealing with multiple config files
