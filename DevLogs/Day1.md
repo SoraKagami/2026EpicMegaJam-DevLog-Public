@@ -79,3 +79,7 @@ Claude finished the initial instructions/plan processing in under 5 minutes afte
 - UNVeIL plugin is close to being usable for PillowTalk to assist with asset finding and importing. Not yet compatible with UE 5.9.0.
 Have not had time to read and work on Claude made plans for PillowTalk. This will if it works out ok including the necessary setups, be left running overnight; it will iterfere with PC use while running.
 Will continue after a meal break.
+
+## Update 7: 00:45 GMT+8
+- PC setup according to Claude Code's plan for overnight build. Ready to attempt.
+- AMD 7900 XTX auto Adrenalin driver overclock (bug) addressed with Claude Code's help via a custom AMD ADLX program + task scheduler. Unfortunately not directly contributable to PillowTalk, but it will at least stop my card crashing and burning on every OS or driver crash.
