@@ -45,3 +45,14 @@ Will give the implementation a try after breakfast. If this works, I may be able
 
 ### New Ideas-scratchpad.md
 Instead of saving my notes in my usual daily notes/scratchpad/to-do file, the MegaJam related parts will be saved into this new Ideas-scratchpad.md in the private dev log repo to keep it's commit history public.
+
+## Update 4: 14:25 GMT+8
+While waiting for Claude's 5-hour usage window reset, play-tested the current version of PillowTalk.
+It was FUN!
+So fun that I ended up play-testing for 30minutes... recorded, planning to upload to youtube as a private video as both proof, and something that can be linked here before the end of the MegaJam.
+Graphics are completely lacking and that's exactly what I asked for, for the Day1 build.
+Function first, we'll deal with looks, FX, SFX and music during days 2-3. It's almost there for basic gameplay!
+
+## Update 5: 16:50 GMT+8
+Spent most of my time writing and updating logs/notes and drafting up the plans to parallelise some of the work.
+Also updated the Claude `Conductor`'s monitoring and restart system to address flaws, as well as investigate crashes and issues that were logged and missed by Claude Code. Took the chance to add a way to safely stop new instances so a safe shutdown can be carried out (oops).
