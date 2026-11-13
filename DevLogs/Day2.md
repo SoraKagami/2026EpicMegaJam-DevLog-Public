@@ -19,3 +19,29 @@ There were still some gains. The session then suggested some upgrades we could m
 My takeaway: do not introduce anything blueprints based for Claude to work on, at least not for the MegaJam. The time cost is deemed too high.
 
 Investigation results saved as a PillowTalk commit `51ed38635dff985846d7be032ab12a599c03ce7effc5c6c5933dfb16a71114e1`
+
+## Update 3: 11:45 GMT+8
+
+### Found old docs
+Found the documentation and notes for the original abandoned PillowTalk game that I never finished. Saved the Gitea server url.
+
+These docs won't be exported out until the end of the jam, may create hashes instead so there won't be a need to actually read the text by accident.
+
+I do not want to poison my planning as current plans were made after I forgot all of this existed. Didn't even remember I had this self-hosted wiki section.
+I don't want to have to credit features that are similar as something I planned before the MegaJam when it was completely and utterly forgotten.
+
+They however can be used after the MegaJam to implement all of the differences that makes sense if the Claude Code built version is good enough to possibly release as an actual game.
+
+Also found the pre-jam notes I made for preparing and saved them out in the private devlog repo. Will hash & commit hashes to Github as proof; file dates and commits are current however as they were manually extrated from my own personal daily notes/scratchpad/to-do.
+
+### PillowTalk (remake) progress
+Just saw a brief snippet of the test Claude ran. Not one, but both of the boss encounter features has been implemented. Exciting!
+Attempting to screenshot would interfere with the image capture that Claude appears to be using to check progress (already tried, saw it repeat tests), so recorded using my phone.
+
+### Figured out a way to speed up
+Figured out two ways I separate out the dev path into parallel Claude runs on aspects that should have minimum interference beyond what it itself designed.
+
+Will give the implementation a try after breakfast. If this works, I may be able to make up for the 6 hours lost due to the hard PC crash overnight.
+
+### New Ideas-scratchpad.md
+Instead of saving my notes in my usual daily notes/scratchpad/to-do file, the MegaJam related parts will be saved into this new Ideas-scratchpad.md in the private dev log repo to keep it's commit history public.
