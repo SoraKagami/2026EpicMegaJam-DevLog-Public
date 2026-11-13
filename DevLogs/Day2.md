@@ -56,3 +56,11 @@ Function first, we'll deal with looks, FX, SFX and music during days 2-3. It's a
 ## Update 5: 16:50 GMT+8
 Spent most of my time writing and updating logs/notes and drafting up the plans to parallelise some of the work.
 Also updated the Claude `Conductor`'s monitoring and restart system to address flaws, as well as investigate crashes and issues that were logged and missed by Claude Code. Took the chance to add a way to safely stop new instances so a safe shutdown can be carried out (oops).
+
+## Update 6: 19:05 GMT+8
+Falling asleep due to not enough sleep.
+Definitely apprecating having set up the whole design, implement, build, test and debug thanks to Claude's help along with the auto recover after crashes. It's been running for most of the time while I was struggling to stay awake.
+The new parallel work setup has been implement and design flaws of this system addressed. In theory if all goes well the `Conductor` can continue to work until all features have been implemented, along with extras.
+The day 1 and day 2 plans have been completed (tho testing and bug fixes still incomplete due to my delays) as of 17:34 GMT+8 and the `Conductor` has stopped since then. Will resume so it can work on auto.
+
+If there are no updates for Day 2 after this, I probably fell asleep.
