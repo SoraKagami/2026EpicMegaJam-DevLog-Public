@@ -96,3 +96,6 @@ Game mechanics are a lot of fun to test now.
 Need to document up bugs/issues for `Conductor` to fix (I can't keep up with it's pace, fantastic!).
 (20:15 GMT+8) forgot to commit this.
 Also kept forgetting to fix the +/- value issue with "DP" that I made during the intial design writeup phase, addressed and added as an upcoming fix.
+
+## Update 8: 20:20 GMT+8
+Fixed a Build folder naming issue, non-critical but it will affect archiving & proof of builds, so requries a date and time entry here.
