@@ -162,3 +162,24 @@
 +	20261114-1345	8dd732572432280d156e7942a8db8ac52806a98a72264847738b561827dfe4a6	Task 67 (R13), documents: Assets_Used.md, _Licence-To-Check_.md, _Credits_.md and the first GameConfig/Credits.txt. The credits page itself is not built yet.
 +	20261114-1355	b16d62a76c14703f7c5a52b0b12b6ea220b349a4165480259facaf52abfcc7ba	User requests R12 to R19 (interface work) with the design docs/UIDesign.md and the user's to-do note.
 +	20261114-1356	9511e2d0f0374911d2c8ac74250f0684202a89ac4dbba1d7b6411ee28a0df5d3	Task 62 finished with steps 4 and 5: the full smoke test passed (stage 11 failed once by chance, note in DevNotes.md), pictures with Sakura. Board, Features.md.
++	20261114-1400	66a80a7503ba9dcc4d4d4d7b70df0d9cb6b0bb878fc36b341a23494edc949c9b	Handoff: task 62 finished, both Day3 packages fresh (run checks passed); R12 to R19 on the board as tasks 66 to 73; task 67 (credits) has its documents, the code is next.
++	20261114-1415	41f77df97c96c846a6a1d0ba5a1705cec84e3aaac40cb833f33d7cb7bf0375aa	Task 67 (R13), code: credits page, our own start-up picture and program icon.
++	20261114-1421	824852526fdffac9a6a1eaf591dc993b2d78b0bda78f0bafac616d670de93df6	Task 67 (R13) finished: both Day3 packages fresh with the credits page, Credits.txt, our start-up picture and icon (run checks and pictures passed). Board, Features.md, Assets_Used.md, note for the user. Task 68 given to a Worker.
++	20261114-1434	187e367bfbe5cbb5420f728039a50d3bccd26fb46a742b1922295f5bdd3e45c9	Task 68 (R14): help screen. Task 69 (R15) step 1, first half: the two interfaces as data.
++	20261114-1437	d030f1dc8cb6e1bbfda61feefeed60a0855c5df0f1ab62d7317940f29b372eec	Board, Features.md, DevNotes.md and handoff: tasks 67 and 68 finished, task 69 step 1 half done (packages of 22:36 in the making).
++	20261114-1439	17af1d30baa0c362cb3a6aad7613d37fda666b9a2754ec9375e49ffa44a6c672	Handoff: both Day3 packages fresh from 187e367 (run checks passed).
++	20261114-1452	06caea315901b2942832298cad25c62e7d2bed97af28ad4ab8be06919ff0114b	Task 69 (R15) step 1 finished: the saved setting 'Rough Cut interface', the change without a restart, Screenshots.ps1 -UI. Board, Features.md.
++	20261114-1507	5f6b5cfb9702a175fc83bfc3c7728b1f90891c355450e8bb6806320809e4e468	Task 72 (R18): practice dummy "Scarecrow" in the sandbox. Task 69 (R15) step 2: the Final Cut main menu.
++	20261114-1513	92deddfce2f2c1d4354064547c4e311420724a6646e8d774fdf2f3c9cb4e0cc8	Handoff: tasks 72 and 69 steps 1 and 2 done, both Day3 packages fresh from 5f6b5cf (run checks passed); next is the Final Cut HUD.
++	20261114-1531	2a2afdcd45bd6ade3b3fa398f624e518faa2dbb5cafb5ac2f17f18b1a7cc5e3a	Task 69 (R15) step 3: the Final Cut display during a round.
++	20261114-1542	ade816b47f3892e8388b0ec7da08deb099a25c7000f0f39e159084d9732770ae	Task 69 (R15) step 4: the panels of a game in the Final Cut.
++	20261114-1551	391f634464232a2aa372f6bb1e1d1288dd48104c7ae27dc4e7cba1be5c140197	Handoff: task 69 steps 3 and 4 done, both Day3 packages fresh from ade816b (run checks passed); next is step 5 (movement, feathers, sounds).
++	20261114-1602	792667139df9c6319de887dd7fa587ecd0776dd2b62030d7e44a1aae0c3b7476	Task 69 (R15) step 5: movement, feathers and the pointer-over sound of the Final Cut (switch [UI] FinalCutMotion). Note for the user: docs/_FinalCut_.md.
++	20261114-1622	388ec48d3d828d6b805a2846cbf0ac25f31f80a71f26b1f271b51fda4a9b605e	Task 70 (R16) step 1: the settings screen has pages (switch [UI] SettingsPages), larger rows and a box that explains the row under the pointer. Handoff, board, Features.md, DevNotes.md.
++	20261114-1627	a535ad5d5cdcdcff50fb7c9391f057c6b4d6fef32cd8004f13b657a092503555	Handoff: task 69 step 5 and task 70 step 1 done, both Day4 packages fresh from 388ec48 (run checks passed); next are the new settings rows, page by page.
++	20261114-1653	16d9579b71086720a0035804c529d9cacb9c8ace2fddcf6a01ebf4e88de83572	Task 70 (R16) step 2: the new rows of the settings pages.
++	20261114-1658	5801e79c1aa5b3ecc3792a442901c8f451e6807e76fe54a8e23f571ef471adb8	Handoff: task 70 step 2 done, both Day4 packages fresh from 16d9579 (run checks passed); next are Reset this page, the picture question, sliders, interface size.
++	20261114-1704	a288d37bef919e05740e3ee33fb7c37121d7a2c29b0c7584c50d1385e88d64cf	Task 70 (R16) step 3: the button Reset this page on every settings page but Director's Cut. Board, Features.md.
++	20261114-1705	fd1a9414d44d54a2992f2da46a1a2dd22715da531c19d4478dc6fc309a0cbc86	Handoff: task 70 steps 2 and 3 done; packages hold step 2; smoke commands 1 to 4 passed on them.
++	20261114-1712	ec5cebdee076ce9f4fcce97fdbd3de785727d0f0bac15ea645d235c0c7d4d449	Handoff: task 70 steps 2 and 3 done, both Day4 packages fresh from a288d37 (run checks passed); next are the picture question, sliders, interface size.
++	20261114-1716	133001a0d652e54bd6f84f90047cc7e5f1705891406e4290d80cf67c309e9567	(Manual) Logs_ClaudeConversations update

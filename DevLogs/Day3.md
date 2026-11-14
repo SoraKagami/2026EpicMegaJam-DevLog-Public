@@ -103,3 +103,11 @@ Fixed a Build folder naming issue, non-critical but it will affect archiving & p
 ## Update 9: 21:55 GMT+8
 - Made the already overly ambitious plan extravagently ambitious in case the `Conductor` can finish the whole list somehow overnight.
 - Added competition requirements that I forgot to add in as urgent updates
+
+## Update 10: 2026-11-15 01:34 GMT+8
+It's still day 3, in my sleep deprived state, completely forgot about timezone differences and already tagged `Day3, Update 9` as `Day3_End` so going to just leave it alone. Will tag Day4_Start properly with a new `Day4.md` after waking up if I don't forget. ~1 day, 8 hours left.
+- Spent the last few hours preparing documents and updating stuff for PillowTalk dev. What stuff, I honestly can't remember due to sleep deprivation.
+- itch.io page created, Day3a then Day3b builds uploaded just in case for this Epic MegaJam 2026 competition. If PillowTalk's name doesn't change to something else by the end, the URL should be: `https://sorakagami.itch.io/pillowtalk` (currently in draft mode, not open to public)
+- Attempted to complete process so an initial submission could be made then resubmit a newer version tomorrow, unable to complete process due to not having a video URL? Unsure if I can update the submission afterwards but according to Claude's research I should be able to.
+- Drafts for the Epic MegaJam 2026 submission details created and saved locally
+Will continue, not enough time.
