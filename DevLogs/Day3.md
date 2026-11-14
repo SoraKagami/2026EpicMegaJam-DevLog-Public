@@ -68,3 +68,9 @@ The above combined should reduce the quantity of (non-fatal) errors and signific
 - Reduced Build, Cook & ShaderCompile disk I/O bottlenecks
 - Free'd up space for Claude Code & UE
 Made good use of the Claude downtime to carry out these "offline" maint changes that were not able to be made safely while Claude and UE were running.
+
+## Update 4: 15:30 GMT+8
+It was exciting to watch the boss mechanics being tested by Claude Code on auto. Can't wait to run manual play tests once it's safe to do so!
+Spent the last few hours doing background related tasks.
+UNVEiL is now UE 5.9.0 Preview 1 compatible and debugged.
+Created a set of reference MegaScans & Fab Quixel shared materials (unchanged, only imported + tested) & confirmed they work as expected.
