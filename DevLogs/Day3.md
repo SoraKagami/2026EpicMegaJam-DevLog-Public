@@ -99,3 +99,7 @@ Also kept forgetting to fix the +/- value issue with "DP" that I made during the
 
 ## Update 8: 20:20 GMT+8
 Fixed a Build folder naming issue, non-critical but it will affect archiving & proof of builds, so requries a date and time entry here.
+
+## Update 9: 21:55 GMT+8
+- Made the already overly ambitious plan extravagently ambitious in case the `Conductor` can finish the whole list somehow overnight.
+- Added competition requirements that I forgot to add in as urgent updates

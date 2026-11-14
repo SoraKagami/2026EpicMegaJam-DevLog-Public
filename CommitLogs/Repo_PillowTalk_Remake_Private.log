@@ -151,3 +151,14 @@
 +	20261114-1140	b8c673402899e8bdacdd0cd1bcd6509794408d4d24555fb3fb4704f57807e047	Task 60 (feature F7, first half): key types. Task 61 (feature F9): music that follows the mood.
 +	20261114-1216	8a2e50f6b6775c83b8e6e25b96925b656e19d3c11a3e585ad4041bdc82e1e105	Task 62 (user requests R6 and R8): the level changes its theme during a round, steps 1 and 2.
 +	20261114-1226	d6157e266594b445086a27c3648eaf9c8c63bc9f367545e180a70d28af1d7b0d	Update UserRequests.md
++	20261114-1239	96070bd54a4268e2afc50dc2e572886d0c02a3b937ba5d7c8cbd1b2017ac8eca	Task 62 step 3 (R6): the glowing line. Task 64 (R10): the screen shows drowsiness rising.
++	20261114-1249	9239b614d73f99ab9c8eb9a780bbeeeab23f76f51e87ce3a04f1ffcc13186ffe	Task 65 (user request R11): packages go into the folder of the day (Builds/Day<N>_Check, Day<N>_Shipping) with BuildInfo.txt; folders of earlier days are refused. Note for the user: Day2_Check was written over once more at 20:39.
++	20261114-1254	dd3ee76c54e75d1c4dfaeaf5e51e1fb9c081029dfba2597d40f489794ebe3d6b	Handoff: state at 21:00 (task 62 step 3, tasks 64 and 65 done; Day3 packages; smoke test partly run).
++	20261114-1308	6c2aeb10d7d88aa0110e618ef8a7d552bf3c01d6ffc9a501ae5c552f68a6c5b1	Task 62: [Theme] Enabled=1 (the lobby offers the theme change). The full smoke test passed with the option on in every stage and without it; 123 unit tests. Board, Features.md, handoff.
++	20261114-1311	d898617596e98ce7d607986fb4c3ef329b3fbdc8ff8a68ec3e3d3b829399a0cc	Handoff: both Day3 packages hold the game with [Theme] Enabled=1 (run checks passed); pointers for task 62 step 4.
++	20261114-1325	13baee27ff5015ed69bc0c141ef1aee40b48b9f84b5e28314f1641d80e2e7b6a	Task 62 step 4 (R6): ambience, music and falling leaves follow the theme.
++	20261114-1342	0fe168f673ac86ec8bf3f97fd5e5aa1944c4ec0c6bf4fd581ec2a5c32510a1f0	Task 62 step 5 (R6): the order of themes is a list in config.
++	20261114-1343	408828282c536024c2950005da32687088a5102696fd2b265180e7ef86698dc4	Task 66 (user request R12): rules for the interface work R13 to R19.
++	20261114-1345	8dd732572432280d156e7942a8db8ac52806a98a72264847738b561827dfe4a6	Task 67 (R13), documents: Assets_Used.md, _Licence-To-Check_.md, _Credits_.md and the first GameConfig/Credits.txt. The credits page itself is not built yet.
++	20261114-1355	b16d62a76c14703f7c5a52b0b12b6ea220b349a4165480259facaf52abfcc7ba	User requests R12 to R19 (interface work) with the design docs/UIDesign.md and the user's to-do note.
++	20261114-1356	9511e2d0f0374911d2c8ac74250f0684202a89ac4dbba1d7b6411ee28a0df5d3	Task 62 finished with steps 4 and 5: the full smoke test passed (stage 11 failed once by chance, note in DevNotes.md), pictures with Sakura. Board, Features.md.
