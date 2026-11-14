@@ -135,3 +135,9 @@
 +	20261114-0920	2d8c5bf51156bff85d331bad0754eb89ab8e94ccc5105506fb1aafc8fb67304f	(manual) .gitignore and .uproject updated
 +	20261114-0921	7f22ba8cf226f580f2e6bae09cc8b53c612e071457b9e45a0317b3e954a6798e	(Manual) MSPresets folder added
 +	20261114-0922	81b1d294650053d3b15299fc55d13c0ec9204f28735444a60c4b6ceaeed81d79	(manual) Fab master materials added
++	20261114-0925	0b90af8e56b42ac743ca53dc3a21907fe5d484bafccc7a5beb3d5d6f184afd87	Architecture.md checked against the code and updated; rules for UNVEiL, Fab content and MCP ports.
++	20261114-0926	f249da9db11f6c5a10a252aeabeacdc479ebfcd87cdee2efcc12d14b8fbbb3a8	Documents corrected: the Megascans master materials (Content/MSPresets, material files in Content/Fab) are in git by the decision of the user; later Fab downloads stay ignored.
++	20261114-0942	a74c57f9106bf794284c0444d2e5aaf48e0db5a2cb27b214ca6eacbaa008ae5d	Content/Fab is tracked (decision of the user): ignore line removed, TakeHandover accepts Content/Fab from the branch level (self-test passes), R4 is now a reference check plus a copy of Content/ThirdParty. Documents updated.
++	20261114-0953	ca6c9b728207aea60563dfb8b40139f0ab0d16a4368f8e635eb15443b1efff8d	Feature freeze moved to Sun 15 Nov 18:00 (PC clock) by the user; last level or asset hand-over with it.
++	20261114-0954	5419d3f94f69d8203d3805b5a015b48cab93abe9615fa89b04aaf1bfad16b19c	Time zone corrected: local time is GMT+8 (the deadline stays Mon 16 Nov 09:59 local time).
++	20261114-0955	8aed77cd68bd405478f9089f3664472d106e6ed345fa9a2a6a7be993d66f5f7f	Logs_ClaudeConversations commit

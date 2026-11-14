@@ -78,3 +78,10 @@ Created a set of reference MegaScans & Fab Quixel shared materials (unchanged, o
 ## Update 5: 16:10 GMT+8
 Took the whole automated development setup with the `Conductor`s offline for a performance (project/Claude docs level) maint in hopes of reducing token consumption.
 Also taking this chance to install the UNVEiL plugin into the project and have Claude use it as necessary.
+
+## Update 6: 18:05 GMT+8
+This update took a long time and I have not yet addressed the `KnownProblems.md` that needs a manual pass + manual test and bug reports. Can't delay any longer, will bring the main `Conductor` dev back online.
+Each Claude Code session's initial token usage should drop drastically now that the critical files have been optimised.
+Currently around 6-8 hours behind design schedule. The time lost has been partially recovered, however need to aim to be way ahead of schedule. On schedule isn't enough.
+
+Rebooted dev PC, recovered 6.4GB of RAM. Windows defender alone was taking up almost 700MB+ for the main executable.
