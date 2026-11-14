@@ -85,3 +85,14 @@ Each Claude Code session's initial token usage should drop drastically now that 
 Currently around 6-8 hours behind design schedule. The time lost has been partially recovered, however need to aim to be way ahead of schedule. On schedule isn't enough.
 
 Rebooted dev PC, recovered 6.4GB of RAM. Windows defender alone was taking up almost 700MB+ for the main executable.
+
+## Update 7: 19:50 GMT+8
+Many changes and fixes happening in parallel.
+UNVEiL updated so the new MCP implementation will work properly with automated dev.
+`Conductor` is working faster than I can type up the text for the new feature(s) that I would like to add (wow!).
+This is a mix of most of the necessary core and extended gameplay features being finished, as well as effects of the changes from Update 5 & 6.
+The actual gameplay Level design is completely behind schedule, need to start after this.
+Game mechanics are a lot of fun to test now.
+Need to document up bugs/issues for `Conductor` to fix (I can't keep up with it's pace, fantastic!).
+(20:15 GMT+8) forgot to commit this.
+Also kept forgetting to fix the +/- value issue with "DP" that I made during the intial design writeup phase, addressed and added as an upcoming fix.
