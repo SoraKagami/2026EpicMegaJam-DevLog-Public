@@ -50,3 +50,21 @@ This is a stark contrast to the original PillowTalk game I tried to make and fai
 The only things that carried over from the original PillowTalk to here would be name, rough concept and also re-using some of the assets I purchased for the original game's use (and the game that failed before PillowTalk original). But instead of being bogged down with an overwhelming number of tasks meant for a whole dev studio, I can focus on designing and directing the changes as long as they can be properly communicated to Claude, then working through issues and debugging.
 
 09:45 GMT+8. Time to continue with the manual tasks.
+
+## Update 2: 10:00 GMT+8
+Turns out I hit my Claude 5-hour usage limit around 30mins ago, have to wait another 2 hours before Claude can resume.
+Time to catch up on the manual work.
+
+## Update 3: 10:50 GMT+8
+Took the chance while the sandbox environments are being used by UE related tasks to create optimisations and fix:
+- UBA: can now write out of the sandbox to cache folders (faster caching, less unnecessary recompiles, less warnings/errors)
+- ZenServer: Running ZenServer outside of the sandbox was not enough. Direct access to the LocalDDC folders was also required for functionality. Made sandbox adjustments so Zen/LocalDDC can read/write faster.
+- UE CrashReporter: often crashes, may have addressed. Sandbox env + long folder paths led to many unnecessary CrashReporter crashes, while CrashReporter was reporting on crashes and in turn crashed itself.
+- UE LiveCoding sandbox optimisations
+- UBT sandbox optimisations
+- Temp folder write optimisations
+The above combined should reduce the quantity of (non-fatal) errors and significantly speed up the whole ClaudeCode + UE-in-sandbox setup.
+- Made some env security adjustments
+- Reduced Build, Cook & ShaderCompile disk I/O bottlenecks
+- Free'd up space for Claude Code & UE
+Made good use of the Claude downtime to carry out these "offline" maint changes that were not able to be made safely while Claude and UE were running.
