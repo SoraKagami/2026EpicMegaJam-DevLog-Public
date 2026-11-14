@@ -74,3 +74,7 @@ It was exciting to watch the boss mechanics being tested by Claude Code on auto.
 Spent the last few hours doing background related tasks.
 UNVEiL is now UE 5.9.0 Preview 1 compatible and debugged.
 Created a set of reference MegaScans & Fab Quixel shared materials (unchanged, only imported + tested) & confirmed they work as expected.
+
+## Update 5: 16:10 GMT+8
+Took the whole automated development setup with the `Conductor`s offline for a performance (project/Claude docs level) maint in hopes of reducing token consumption.
+Also taking this chance to install the UNVEiL plugin into the project and have Claude use it as necessary.
