@@ -408,3 +408,28 @@
 +	20261115-2032	8e6c0ed6ef44351e5a27a848525011bdf39b77e846b88cb9eb04184a78ca3db5	Update UserRequests.md
 +	20261115-2032	4fba40f67d3ed0ffb024cff7dbd077017744df572570c005f804cfb8f1ce2e81	Update BugFixNeeded.md
 +	20261115-2032	6dc74fcdc65355134f67b894c951ef9d93e449ca937d454e960ae2acc57829c0	Day5 packages with R56 made and checked (Features); task 117 is the open task, its game side is built ahead of the hand-over (board, handoff).
++	20261115-2039	760480b5aef2e12bcdf838ac14f53df05755c709070d992c5095618095635d29	L_DormSet: saved navigation data removed (a stale RecastNavMesh from a save in the open editor made the vault stage fail); DressTreesHQ.py removes it before saving; StripNavData.py and DumpActors.py; notes. Tests passed on this map.
++	20261115-2057	3e57290d500f53003d1ede2961d22c9b1212b04dc9ae07306ddd7d05979859cc	MegaJam submission: AssetsUsed.md lists only the assets the game really uses; references to the theme (DirectorsCutRefs.md).
++	20261115-2110	c881c8174a6bdadfd2b2bb8420c151c3bf5c2f5588107f7116cc481e27bce83b	Task 117 (request 17 of the Level instance): the setting High Quality Assets, game side.
++	20261115-2113	d0960161b0a5829a3a945ebd78a593ac8ad498213c12175b090434969e92075c	Board, handoff: task 117 done; hand-over 5 (task 121) is blocked by the open editor; bug list batch 2 taken as task 122.
++	20261115-2123	667fe88322eecd01b3b775eff432996d39fc61607fcb1e80a58dee15045c02fe	Bug list batch 2 (task 122): the row Graphics card works in a Shipping package; pointing at a key shows what the button is for.
++	20261115-2128	176bfae174cbf03b3eae80fa349abb39ecb1e8cb856043a17d8a8e973a98b36e	Bug list batch 3 (task 123): a person's game starts with the three movement options on; the Defend badge shows the wait after defending.
++	20261115-2129	5edc089b9e406a705caf0d51044cbac632ecfdf44407abc9e4805582e5c5a9ad	Board, handoff, BugFixTaken: the bug batches 2 and 3 are in code; tests and packages are open.
++	20261115-2147	15c21a61d9290ac86dca99e50cb219c0b8eb01400d94e4e3635eec79ccafeb08	Bug list batch 4 (task 124): Director's button Boss event; My pillow and Look at a pillow start on, the second is a toggle; the tutorial's Scarecrow has half its DP in step 9; request for three meshes.
++	20261115-2157	3bfbe4516a4651af1bd980fa816e3af00c888f3cfca6a22bc280eda8b1bfdf56	Bug list batches 2 to 4: tested on the Check package; Features, KnownProblems 41, BugFixTaken, board.
++	20261115-2158	0a7003a743733c26c80d623c09806c765678fafe3da9db4e240afacab02b7021	L_DormSet: collision boxes for the user's twelve hand-made furniture copies (wardrobes, dressers, low shelves: the copies had the look mesh and the navigation modifier, but not the hidden BlockAll box). No saved navigation data. Not tested yet.
++	20261115-2158	3a4b0ef55aaf3077ecd65990bd966ec7ab75bfcffc498dac28c305d826c92f6d	Merge branch 'master' into level
++	20261115-2158	0974c20001d981859ab9a39eca017f43b688364222c2d2e3a64aa3e7a4704b7f	Handoff: the bug batches 2 to 4 are done; the Shipping package is being made.
++	20261115-2202	87d794b15b0562d260fbd11ed9801dbe61fd5184cb81e198e94bcc1c33dc59c0	Day5 packages from 15c21a6 made and checked; the graphics card row tried on the Shipping package (Features, BugFixTaken).
++	20261115-2210	089669e2ba883cd161c90dbbc082442b77804157a43e5d1c101ab89f5bbddfd9	Task 125: delivery 21 of the Assets instance fills the slots for coffee, the energy drink and the drinks dispenser (Meshes.md, index, Features, board).
++	20261115-2214	a2aa421a5c19ca3c51edf76e911d34b2478ba81ffaf2fd92597db34d6d750dc7	Merge branch 'level': hand-over at 3a4b0ef
++	20261115-2215	48027404a26f299a85a7a0eabc41cbcecd7ff9cfd4d1275926418c6969d9cfea	Update AssetSource-Licenses.md
++	20261115-2215	1c84c31113a873fdaea04f1eb222ce7bbef87bd4a637ea9a51ac147f7fc0c5c1	Update Credits.txt
++	20261115-2215	d80d4089812f56d2e082f4411460e6c580f9ff7ee38ab73bdf1ebaad9a98ee83	Create HelpText.md
++	20261115-2216	a86d9376ba1cef3d35e48368e2162331e28ab3725199f6adcac9aa61b2cb320d	DefaultGame.ini: MapsToCook +L_DormSet_HQ
++	20261115-2216	00ff9b2e6846512d1478e89af72a0c403d117daa3fef23126ef2b7ce5eb70dbd	Credits: the two Twinmotion sports packs and City Subway Train Modular (delivery 21: can, drinks machine, paper cup).
++	20261115-2216	4dfd680b5074e09e143a85aacb346796e629ef42c23bc775ce022c992f8a6b96	(Manual) Logs_ClaudeConversations commit.
++	20261115-2223	3d80b1a5718f1c57143df8c14b8e175af6061a7cb465f2ece0641788ef0dc3f6	Task 121: hand-over 5 of the Level instance taken (level at 3a4b0ef: L_DormSet_HQ with the Megaplants trees, truss towers, more cherry trees, collision boxes); stage HighQuality passes on Dorm Set both ways; the two packs in the assets index.
++	20261115-2230	d0f2c2b1f3abfcb357256dcb8ae449eb38defdce700bdc7f6d48dbc3dc368f41	Task 121 done: Features, board, KnownProblems 40, note T19 to the Level instance, stage 26 note; handoff.
++	20261115-2232	d4b5c3d07dc56412419f55e70fe6613deb1d9899c197531c0279e82e7cb20f8e	Day5 packages from 3d80b1a (batches 2 to 4, delivery 21, hand-over 5) made and checked; handoff.
++	20261115-2233	4ba8f04e3be8898c2cd054005076727c883bdb91b86acb5c1106c564469053d2	Hand-over 6 of the Level instance (collision boxes) came with the merge of hand-over 5: board, handoff, Features, note T19.
