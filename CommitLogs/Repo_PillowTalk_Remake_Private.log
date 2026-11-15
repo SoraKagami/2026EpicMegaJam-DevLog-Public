@@ -322,3 +322,7 @@
 +	20261115-1127	9ab29f34da7cf9bf2f321bc990989858148b9919df6d2cbf64d92580c28a521c	Nothing new to build: note for the user about the turret meshes (delivery 12), handoff, board.
 +	20261115-1136	6449d5041407d50ad1272caa9b54659289d295aef82818c47a9a16fe682db64a	Main watchdog: after the 'nothing left to do' alarm it keeps running and starts the Conductor again on new requests (UserRequests.md, Level RequestsToMain.md and Handover.md, new Assets deliveries).
 +	20261115-1148	d71d88b72e190b642af50e485223781a610ac1937025d4bd219adeed36622dcd	(Manual) Logs_ClaudeConversations commit
++	20261115-1244	146c571c7ac041dcaf6917a178f5f539ed5a384ae067886a7c38d5db3c39a9d0	L_DormSet: hangar walls in pieces of at most 10 m with the hangar pack's metal (own material M_HangarWall), the pack's gate and two door leaves; no roof (the user's decision). New script DressHangar.py; BuildDormSet.py no longer makes the hangar walls. CheckCoplanar 0.
++	20261115-1258	83a4cb5ff79b292e23e83dda00d9842544719e92b39cbf09b073fd312be1ff28	Guard: the AssetCreator folder (D:\2026_EpicMegaJam_AssetCreator) may be read; unattended sessions may write only requests there (Exchange\Request_NN.md and its Inputs folder).
++	20261115-1315	1599aeb5835f62b51054cbef4cde55677a0d720c09bd6ef91e1515d3449b1911	Board: requests R41 to R46 taken over as tasks 99 to 103; task 99 started.
++	20261115-1333	206b06cb7f8bf965351f3d9848d2c182bc99562d0c01a76d4847f351bf87234b	(Manual) Logs_ClaudeConversations commit.

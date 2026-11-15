@@ -36,3 +36,9 @@ The fatigue from the 3+ days of intense dev + lack of enough sleep can definitel
 
 Updates today will be sparse, not enough time.
 Will most likely just commit hashes going forward until something needs mentioning here.
+
+## Update 6: 21:30 GMT+8
+- The whole multi-conductor + workers setup is starting to creak when I am involved and time is limited.
+- First time I've seen Claude Fable 5.2 incorrectly reference this setup.
+- They work well together if no restarts are made and I communicate with them via the "proper means".
+- Attempted to create a separate AssetCreator with internet access allowed, too risky, not enough time, shelved. Fortunately current existing working setup limits all of their internet access enough to not need to worry. Just no way to ask for web searches for better posing for attempts at making new animations; it'll have to work from memory.
