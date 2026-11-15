@@ -370,3 +370,24 @@
 +	20261115-1655	54b1526b42bcffe022e77ba94efa8695a0ff35f72d49a7d37f312a9688b317b8	Task 112 (R51): Dorm Set is the map of every game a person starts; tests keep Previsualization.
 +	20261115-1702	980263f9d84cbf9968d05f5617bc5691b61e09362ab51f378fed15dc7c69bcd5	Task 111 (R50): the 12 style animations pass the number checks and were looked at in pictures; progress note with the verdicts.
 +	20261115-1707	79c5cce1da41f8c5be5f370b595068b92ae2f46ea350a0f0fc171cf539e64f90	Update UserRequests.md
++	20261115-1716	2173eaf8e2af808d3959360e585fd0a52185c73490cbd1ec59b9c03cbb800650	L_DormSet: the user's hand changes as saved in the editor at this time (snapshot; not tested).
++	20261115-1719	f6d620baa9d5dc7a3676a7836e7a36d57b4177926ed0ee8d09740b363e003060	Task 110 (R49): the 15 move animations looked at in pictures; legs closer together in the dives; progress note.
++	20261115-1721	a720473b193f68cdedbc9e63235dcc5176f488537bee8a55ed5ece73077e02d0	Tasks 111 and 110 (R50, R49), game side: six style animations in their slots; slots and variant choice for scramble and dive.
++	20261115-1744	aad18c7cd8e1ddd3dc9b6fdef72baee1ae0df645116690d014e4bd2de2838c39	Tasks 110 and 113 (R49, R52): scramble and dive animations in their slots; Theme change on by default, its switch under Director's Cut.
++	20261115-1745	7ebe4fabcbabe66f85d7970d86a46f5d528bfa078950ff0442815c022b3d0f9a	L_DormSet: the user's hand changes saved at 01:44 (Ultra Dynamic Sky and Weather in the map; snapshot, not tested).
++	20261115-1745	6584539104371f48b24461b9cd0e3c735f09dda1c04d0b922baba1e6d2396fd9	Merge branch 'master' into level
++	20261115-1747	03f7f5946c3f4698ae5ec97d2f24e4365fa3e6d1826d7fb56588bab66565f25d	Package.ps1 and Screenshots.ps1: the line that adds -PTPrevisMap was missing (the Check package's run check caught it).
++	20261115-1750	dd6ab4cf3f969f0636cada5bb9618002a460c368355b036be6741d585c38c917	L_DormSet: pouf (delivery 18) for the bean bags; forklift, box truck and tent of delivery 17; the Log Cabin forest three times as dense (528 trees and plants in all); SwapAssets.py can redo single rows (PT_SWAP_ONLY). CheckCoplanar 0.
++	20261115-1758	8cc3e222b77eeaca992aaba8754cf490ec9b8982f3edda810ee2b38da3c0de63	Day5 packages made and checked (Features); task 106 closed as not safe (board); handoff points at task 108.
++	20261115-1805	cdaff20b0191e016b9cdddf8f0c0fdec38a8a2bb063440bcf699579eb465495c	L_DormSet: M_LogWall for the Forest walls: the Log Cabin texture turned so that the logs lie along the wall, only its log part repeated, the pale lines between the logs drawn as dark gaps. MI_Wall_Forest keeps its name, so the map is unchanged.
++	20261115-1810	f0ca35207ddd7e6d50cfc5e09fe258592d07d4dbf6473068f9a94eb6a1230073	Bug list docs/BugFixNeeded.md (taken as a batch after NOW and NEXT requests) and Watchdog -Mode StopSafe (finish what is begun, then stop); added by the interactive session at the user's word.
++	20261115-1817	62ff8376646b732dfd21f41ca03cc3fe3295d72a1987360b42f0ab7f783a9ebb	Bug list ranks after the Level instance's requests and hand-overs (the user's word); manual pages describe the bug list and -Mode StopSafe. By the interactive session.
++	20261115-1819	d36961e1b9726928659ca6376b1b7ffce31a2bfabc4c3c762dccf7c807408d3d	Task 108: the Pillow Turret is variant B, put together from five pieces (Nice look only).
++	20261115-1820	08f2b8ed323d1c1447e125c55859ba2da4be8dbdd89733e8fe692bc2f0a2e8dc	LevelCheck.py: the actors of Ultra Dynamic Sky and Weather (tags Sky, Weather) are not play meshes; skip them in the collision part.
++	20261115-1826	d3076b42918c1f07e2deceda573888aeeed1fd1701b54580548d9678174f5289	Documents shortened (the user's interactive session, 2026-11-16 02:45, a quick round)
++	20261115-1833	2bab56a8b4316dc97f750d691ce28e15383985a9c98826873eb095e7d985a0d3	(Manual) Logs_ClaudeConversations commit.
++	20261115-1833	b77aefc1fbca735459d5026e35fc490b82ecfbabf577aba33d1f5ce643126c7b	Update UserRequests.md
++	20261115-1833	c57342d5883c10872f90e7fbf4532792d2ecb15301d7534a2cde592432b21ac9	Update AssetWishlist.md
++	20261115-1837	ac928cff84877a1484b99c90ca328f77570f7f8e519742cd96a67a8bd824c03d	Update UserRequests.md
++	20261115-1840	e935e7208f9b401f4b844a75d92ff921d48135dc184a536a2e0d6367e483ec2c	TakeHandover.ps1: the copy step also takes Brushify, CHERRY_TREE and Stylized_Spruce_Forest (packs at the top of Content that .gitignore names; hand-over 4).
++	20261115-1841	dbe3e6dad3a418ef0adc8a2704a7bf602f9e67ddab58e7598235758eb6191dd6	Merge branch 'level': hand-over at 08f2b8e
