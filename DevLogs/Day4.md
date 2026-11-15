@@ -13,3 +13,8 @@ Asking claude to check
 ## Update 3: 15:55 GMT+8
 Managed to get around 5.5 hours of sleep excluding getting up to check on the `Conductors` and adding new features & fixes to the queue.
 This is technically the first update for my last "day" of the MegaJam 2026. Looking good so far!
+
+## Update 4: 16:25 GMT+8
+Definitely fun to play test!
+Started bug logging for the polishing and balancing phase
+Graphics assets need to be added today, and any final set of features finished
