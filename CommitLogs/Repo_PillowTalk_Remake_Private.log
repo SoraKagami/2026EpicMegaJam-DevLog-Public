@@ -391,3 +391,20 @@
 +	20261115-1837	ac928cff84877a1484b99c90ca328f77570f7f8e519742cd96a67a8bd824c03d	Update UserRequests.md
 +	20261115-1840	e935e7208f9b401f4b844a75d92ff921d48135dc184a536a2e0d6367e483ec2c	TakeHandover.ps1: the copy step also takes Brushify, CHERRY_TREE and Stylized_Spruce_Forest (packs at the top of Content that .gitignore names; hand-over 4).
 +	20261115-1841	dbe3e6dad3a418ef0adc8a2704a7bf602f9e67ddab58e7598235758eb6191dd6	Merge branch 'level': hand-over at 08f2b8e
++	20261115-1907	13a14b4a99188fd3ef1c4d44096918da4483f2e95957cd87bebd3c0a8ad2ebee	Tasks 114, 63, 115: hand-over 4 taken; the sky per theme (R7, R9); the main menu shows Dorm Set (R53).
++	20261115-1912	88a8f0226ec431266480f64d934d8e8e7668dab8a782c364b4d69440e3ee0e8e	Handoff: hand-over 4, the sky and R53 are done; packages and R54 are next.
++	20261115-1928	46ebb40da0385ddcddfb27c0b100659dbf62d41cf1e62ade64217f7102ce338c	Board: request 17 of the Level instance is task 117 (blocked, answered in T16); bug list batch 1 taken as task 118.
++	20261115-1930	e87172d096b9766242e2131d1011a6ac03c5a1cb2b2f97c64c59bfd07921c610	L_DormSet_HQ: high quality twins of the trees for the setting High Quality Assets (request 17): 160 Megaplants Black Alder and 27 Yoshino Cherry as skeletal mesh actors with Quality.High; the standard trees get Quality.Standard. L_DormSet: three truss towers of delivery 17 in place of the lighting racks. Not tested in the game yet.
++	20261115-1940	927b7ba15ba1ab98d6dbe508afbe4859df2ea87c4295549a519ad0b9e1a21ed9	Bug list batch 1 (task 118): a sleeping character is silent; the free camera's picture follows in a paused game (Set Check); the Pillow Turret no longer holds its user ([Turret] HoldsUser).
++	20261115-1940	9a8d853440fdc2dafc41a934050011864771ecb82379384e11174ad06d2c89ca	Bug list batch 1: what became of each bug; board.
++	20261115-1951	04d5736d55a038d4899dc968dad6ddd4a28ea6ec7b72304cf288c736a16e361f	L_DormSet: 14 cherry trees on the -Y side (the user's wish), behind the Top-Down camera; L_DormSet_HQ: their Yoshino twins (41 cherries, 160 alders). Not tested in the game yet.
++	20261115-1951	1ce5734e61e3455c0b71d8ef0f729679d293acc12665fc5a6b5a4ec2f97f5ba2	Merge branch 'master' into level
++	20261115-2009	81e1ca81fb3db94def408b2926ae528147ea2c487c3d9a3b7523a11621094908	MegaJam submission: asset sources and licences, and the list of every asset in the package (Tools/Build/ListAssetsUsed.ps1).
++	20261115-2010	49987d043bc07829d992112e96e8652de23c4757d964e0bc15889803f4deed48	DevNotes: the sky and the menu on Dorm Set, the free camera in a paused game, hand-over folders, package times.
++	20261115-2020	618e18fe579b62a36b63971f75b646908f76a883ce0cf83804927962bf9ba034	Task 116 (R54): Builds\Day5_Stable1 from 49987d0 (tag Day5_Stable1) after a full test run; note for the user; R55 and R56 are tasks 119 and 120.
++	20261115-2021	356ac1b16c1bda60f12b11e1586daeda6b5459cfc06dc56c0f44fb3bb8bd4b2e	Task 119 (R55): the music pack of delivery 20 is in the project and recorded; no music slot is filled yet (the user names the pieces).
++	20261115-2024	cedfaf6ad89f5e940c90cf7ac11cac1fc9ed20a40845e97a5ec295425d8f7eea	Task 120 (R56): the plugin ProceduralVegetationEditor is enabled and r.Nanite.Foliage=1 is set (the user's word; both targets build, no test run as asked).
++	20261115-2025	e25c844a5c03e6ae50a5d4c92ab31cae3dab727485abc5862f8c284691de0236	Handoff: the state after R53 to R56, bug batch 1 and Day5_Stable1.
++	20261115-2032	8e6c0ed6ef44351e5a27a848525011bdf39b77e846b88cb9eb04184a78ca3db5	Update UserRequests.md
++	20261115-2032	4fba40f67d3ed0ffb024cff7dbd077017744df572570c005f804cfb8f1ce2e81	Update BugFixNeeded.md
++	20261115-2032	6dc74fcdc65355134f67b894c951ef9d93e449ca937d454e960ae2acc57829c0	Day5 packages with R56 made and checked (Features); task 117 is the open task, its game side is built ahead of the hand-over (board, handoff).

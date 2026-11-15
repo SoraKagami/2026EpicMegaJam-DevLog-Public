@@ -42,3 +42,15 @@ Will most likely just commit hashes going forward until something needs mentioni
 - First time I've seen Claude Fable 5.2 incorrectly reference this setup.
 - They work well together if no restarts are made and I communicate with them via the "proper means".
 - Attempted to create a separate AssetCreator with internet access allowed, too risky, not enough time, shelved. Fortunately current existing working setup limits all of their internet access enough to not need to worry. Just no way to ask for web searches for better posing for attempts at making new animations; it'll have to work from memory.
+
+## Update 7: 2026-11-16 02:40 GMT+8
+Running too low on time for comfort.
+Graphics assets added, not great but good enough for testing/showing.
+
+## Update 8: 2026-11-16 0315 GMT+8
+Really want to keep upgrading, need to stop and focus on shipping and docs prep + video now.
+
+## Update 9: 04:35 GMT+8
+Looking great, missing music (ready to implement)
+`Day5_Stable1` Built and tagged in the PillowTalk_Remake repo.
+Still preparing docs while the last of the currently documented bugs are addressed out by the `Conductor`.
