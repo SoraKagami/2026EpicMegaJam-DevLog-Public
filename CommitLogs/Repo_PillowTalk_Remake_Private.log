@@ -308,3 +308,17 @@
 +	20261115-0704	eac7400fbf06bcc9678b0a50c51a0769c9168934fe91327dd7d9876af37bf40c	Tasks 85, 91 and 92 done: Builds/Day4_Stable1 (Shipping, from 6f99792, starts in the Final Cut, run check passed) after the full smoke test, the new stages and the interface checks on Day4_Check. Notes docs/_Stable1_.md; docs/_FinalCut_.md removed (KnownProblems 33, 34); Features, DevNotes, board, handoff. Task 74 (DLSS) is blocked on the plugin files: alarm.
 +	20261115-0727	8499ec3d8de254a0f3b51dd94e7a39b948d555351c8eb288011ad67a3e1f39df	(Manual) Logs_ClaudeConversations commit
 +	20261115-0727	3f19e04693ba24270e39e56a15d62ed022024ee7d0ac304213f3651055d90fb7	(Manual) UserRequests.md
++	20261115-0841	70e898ac599cd040d22e425a6f3f938a81760a119470ad667ec866ac16f8d760	Documents shortened (the user's interactive session, 15 Nov 17:00); cleanup guide docs/manual/5_DocsCleanup.md.
++	20261115-0931	c926adaaa2c376310cb024beba772b8576182eea68ba47f7ec3bf6fbc9eadeb5	The freeze is removed, DLSS on hold, requests R36 to R39; the main menu's divider can be moved (the user's interactive session, 15 Nov 17:40).
++	20261115-0947	8e8d64686f77fc738b977cba8c273fdae44de4166d44e01eafb12cfd9439ab45	Console command PT.TitleDivider moves the main menu's divider while it shows; request R40 (the second theme reads Log Cabin). By the user's interactive session, 15 Nov 17:50.
++	20261115-1014	ff3655a82ae5a556387ffb0ecc17e973d6d43fc8767b3e9cd27a2a6f2a8fa13a	(Manual) Logs_ClaudeConversations commit
++	20261115-1027	68c5850fd5a2ebd101ab84a9948e6b7f72f36bd35a515a451717382dec89149c	Tasks 94, 95, 97 (R37, R38, R40): three themes, Log Cabin, L_DormSet for Shipping packages.
++	20261115-1032	5ec84c5ed2f6747ae49c3119c005f085da8a3269a46097e985aacfd42af08879	Task 96 (R39), steps 1 and 2: menu artwork rules, list file, nine stand-in sets imported.
++	20261115-1036	94c6f98fad7150b9c3821d07c7e29a4ecf77acb7b2b704a12c21e1f0acbd1e22	Merge branch 'master' into level
++	20261115-1039	aeb8a7f3e9552f90a0277140ce2204a6ef9c8b3a25c79490f58c5c26dbab55fa	Task 96 (R39), steps 3 and 4: the Final Cut main menu shows a picture set that follows the game.
++	20261115-1046	830e2d6f3e2c755c48d97746e1d5f369776aeb47cc081ef323aa0fdc9cb1e2d7	Task 96 (R39): texts over a bright menu picture get the usual colour and a shadow; handoff, board.
++	20261115-1104	ca684e349e46f341b6342393c22e1b5365c4854db5ec90b1ef53f196104d470d	Task 98 (the Level instance's request 10): themed looks with the tag Theme.Outside sink into the ground and rise.
++	20261115-1111	126f7f10fe11db04aab26621c0f98ea4e28dd2baabd89b7926bbea971c8b73f2	Task 96 (R39) done: interface smoke test on the Check package passed, sizes and results in Features.
++	20261115-1127	9ab29f34da7cf9bf2f321bc990989858148b9919df6d2cbf64d92580c28a521c	Nothing new to build: note for the user about the turret meshes (delivery 12), handoff, board.
++	20261115-1136	6449d5041407d50ad1272caa9b54659289d295aef82818c47a9a16fe682db64a	Main watchdog: after the 'nothing left to do' alarm it keeps running and starts the Conductor again on new requests (UserRequests.md, Level RequestsToMain.md and Handover.md, new Assets deliveries).
++	20261115-1148	d71d88b72e190b642af50e485223781a610ac1937025d4bd219adeed36622dcd	(Manual) Logs_ClaudeConversations commit

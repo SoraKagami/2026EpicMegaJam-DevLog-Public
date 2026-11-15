@@ -18,3 +18,21 @@ This is technically the first update for my last "day" of the MegaJam 2026. Look
 Definitely fun to play test!
 Started bug logging for the polishing and balancing phase
 Graphics assets need to be added today, and any final set of features finished
+
+## Update 5: 19:50 GMT+8
+So much to do and so little time left.
+All of the gameplay features other than the attempt at DLSS has been implemented.
+Level still incomplete, assets ready to be replaced.
+Still yet to run a proper manual debug + provide Claude with the list to fix.
+SFX can do with some updates.
+Music missing.
+Animations need replacing (TBD).
+Character models need replacing (not started).
+Couple of things I would like to add but don't have time.
+Gameplay recording and video not done.
+Draft for submission needs updating.
+I am the bottleneck now, Claude is hardly running, trying to address this.
+The fatigue from the 3+ days of intense dev + lack of enough sleep can definitely be felt.
+
+Updates today will be sparse, not enough time.
+Will most likely just commit hashes going forward until something needs mentioning here.
