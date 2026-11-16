@@ -433,3 +433,26 @@
 +	20261115-2230	d0f2c2b1f3abfcb357256dcb8ae449eb38defdce700bdc7f6d48dbc3dc368f41	Task 121 done: Features, board, KnownProblems 40, note T19 to the Level instance, stage 26 note; handoff.
 +	20261115-2232	d4b5c3d07dc56412419f55e70fe6613deb1d9899c197531c0279e82e7cb20f8e	Day5 packages from 3d80b1a (batches 2 to 4, delivery 21, hand-over 5) made and checked; handoff.
 +	20261115-2233	4ba8f04e3be8898c2cd054005076727c883bdb91b86acb5c1106c564469053d2	Hand-over 6 of the Level instance (collision boxes) came with the merge of hand-over 5: board, handoff, Features, note T19.
++	20261115-2245	d14df5b9ee24e0d33efddf74672bc0ce5302dfafe7dee6ee97db7fd53a869b6a	Task 126 (R57) started: Package.ps1 keeps a release folder PillowTalk_<version> like a stable one; board, handoff.
++	20261115-2315	1334fd9f69f817cb2b2a191c1bef1bef4b16eac67aac9209628b5c620e542cbc	Task 126 (R57) done: the release package Builds\PillowTalk_1.0.0 (Shipping, from d14df5b, tag PillowTalk_1.0.0) after a full test run.
++	20261115-2326	a52d4f8d17508f32a0c2fd8d8fb5361e98d9a012553dfe8316f940ea77c5f474	Update UserRequests.md
++	20261115-2329	76fa0713bdc374c4d603a3d3837ab8a24150ecf44db0141a540cacfc3586389f	MegaJam submission: Claude's development log, Day 1 to Day 4 (docs/MegaJam/DevLogs_ByClaude).
++	20261115-2340	64cdfab3a6f9cad147bf394209ddcc5d01994e89abc96c06eb53b3f69136ea16	Update Credits.txt
++	20261115-2341	b7efbe1daba8ae5dd3ad84b1db0dfa4b1ffa77d841af2140d4f2ad8c2d2d134f	Update Credits.txt
++	20261115-2342	cb985f63d03650be9d733f3b622025d58d7e0a6f0323b38f70bfdac98bb07f90	Update AssetSource-Licenses.md
++	20261115-2344	f7135eaeb517672f2fd7e091ec6668e492cf90203b6552ac16a415f39e10ed86	Update AssetSource-Licenses.md
++	20261115-2346	3ad1e3f29b718d025327453aef1436a98316a925e35b428119f072b069b51e4c	Update Credits.txt
++	20261115-2348	5211c486d8004d54833ccfe577d5bdd4796e3c81c6cedbe493095bae01da4e03	Docs can now be packaged with the game (ReleaseDocs)
++	20261115-2349	cd3ad376a0626ec22c30a379ba3bd9b16626000d59a735570d055338a81b7920	Moved AssetSource-Licenses.md to ReleaseDocs
++	20261115-2355	4df1d9b62778af8965846df17c72e81a513fa5a7c5484881956736c15077bddc	Forgot to actually change the project's actual project description and version num. Now v0.4.0.1
++	20261116-0002	0ba44a88fd53280e840ad86d4bcdd4db33b683ee72a33b776464187128799093	Task 127 (R58) done: the release package Builds\PillowTalk_0.4.0.1 (Shipping, from 4df1d9b, tag PillowTalk_0.4.0.1), no tests as the user asked.
++	20261116-0009	b520b774b7c9987c193d11ed06bb8e43d3aac1924263c333fe210b23fdbad120	New start-up picture: FreeChoice set 2 with the two lines of text of the first splash (Tools/Build/MakeSplashFromSet.ps1).
++	20261116-0033	672499b15103af0db88fcfcbc76f7575a8acb0f31a817c6f2c8fbc57b8601342	Task 128 (R59): music. One piece per place, on loop; version 0.4.0.2.
++	20261116-0034	a2ca802379c68a694aaa5a2e98f47423c8d045f03b8f9ce2ab12742aca32416e	R60 taken as the test rule of R59; handoff, board, Features, licence note for the music pack.
++	20261116-0042	c267adfd3db0b76e6b197c15287406698302e0077f9900bb5354a5e55e123626	Task 128: the Day5 packages with the music (version 0.4.0.2); handoff and Features.
++	20261116-0057	cfd8d8a0e1cb6663b3ebcfe0c01d9ebf66c3ee07677409d5ad4ec3e70a4d933d	Task 129, bug list batch 5: see-through glowing team disc at higher quality; the Supervisor is no taller than the door leaf.
++	20261116-0113	3532616ee8f796d455afd96c4268d41da74df88d1f1c97985d309583ddc8ebe6	Task 129: the door is measured with the leaf attached to its hinge; the disc's glow no longer follows the exposure of the level.
++	20261116-0114	141240e6ca3c76d997aa1096167e534aa43258bb919fafa00afb9a122b276f7f	Task 129: what became of the two bugs, tests, handoff.
++	20261116-0120	5aa925458333f5ada99b303c73e40d3d67ef0fc640f5ce5d510bd52afb2956c2	Task 129 done: the Day5 packages with the music and bug batch 5 (version 0.4.0.2); handoff.
++	20261116-0138	eef2d2c4507aebc142dd86d02f23886fd6e608afc1129f38fd09c7140976bde3	Task 130 (R61) done: the release package Builds\PillowTalk_v0403 (Shipping, version 0.4.0.3, no tests as the user asked).
++	20261116-0210	b2bb467087ed6ad9aa0f98bbaffcc523f1d70a24692a82eb476809605fa834cc	v0.4.0.3

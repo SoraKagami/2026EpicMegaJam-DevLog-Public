@@ -54,3 +54,10 @@ Really want to keep upgrading, need to stop and focus on shipping and docs prep 
 Looking great, missing music (ready to implement)
 `Day5_Stable1` Built and tagged in the PillowTalk_Remake repo.
 Still preparing docs while the last of the currently documented bugs are addressed out by the `Conductor`.
+
+## Update 10: 10:07 GMT+8
+I am well beyond angry. itch.io's uploader app Butler was stuck PROCESSING for almost a full hour, refusing to allow my upload through because their servers were too busy.
+At least I managed to submit 1? 2? days ago a test build, so the competition submission was that old build, with today's version turned into a youtube video.
+Just in case I uploaded a copy of v0.4.0.3 to Google Drive, here at:
+https://drive.google.com/file/d/1zUgwnSsmvBA8qGGWw_YGNi-S_iAuIRmy/view?usp=sharing
+Which at least proves the timestamp.
