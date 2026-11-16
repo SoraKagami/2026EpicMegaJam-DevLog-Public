@@ -20,4 +20,5 @@ https://github.com/SoraKagami/2026EpicMegaJam-DevLog-Public/tree/master/CommitLo
 https://github.com/SoraKagami/CommitHashLogger
 
 # Claude's DevLog
-I asked Claude to write it's own DevLog at the end for fun. Unfiltered, untouched, pure Claude: https://github.com/SoraKagami/2026EpicMegaJam-DevLog-Public/tree/master/DevLogs/DevLogs_ByClaude
+I asked Claude to write it's own DevLog at the end for fun. Unfiltered, untouched, 1-shot pure Claude:
+https://github.com/SoraKagami/2026EpicMegaJam-DevLog-Public/tree/master/DevLogs/DevLogs_ByClaude
